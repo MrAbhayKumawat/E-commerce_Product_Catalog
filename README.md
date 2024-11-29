@@ -21,5 +21,5 @@ Before you begin, ensure you have met the following requirements:
 
 Follow these steps to get your development environment set up:
 
-1. Clone the repository - 
+1. Clone the repository - https://github.com/MrAbhayKumawat/E-commerce_Product_Catalog
 
